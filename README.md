@@ -1,7 +1,7 @@
 # SQL Queries on Synthea Healthcare Data
 *This project was adapted from the DataWizardry SQL course on YouTube.* 
 
-The `Healthcare script.sql` file contains the script used to create the tables and the query for extracting the data, which is contained in the CSV file.
+The SQL query file contains the script used to create the tables and the query for extracting the data, which is contained in the CSV file.
 
 The data used to populate the tables can be accessed via Josh Matlock's [DataWizardry website][data].
 
